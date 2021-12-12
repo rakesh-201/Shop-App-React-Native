@@ -1,7 +1,7 @@
 # Shop App
 
 ## Screenshots
-![Login Screen](https://res.cloudinary.com/dxleddac7/image/upload/v1639313739/WhatsApp_Image_2021-12-12_at_5.58.52_PM_s4zwgh.jpg)
+![Login Screen](https://res.cloudinary.com/dxleddac7/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1639313739/WhatsApp_Image_2021-12-12_at_5.58.52_PM_s4zwgh.jpg)
 ![All Products](https://res.cloudinary.com/dxleddac7/image/upload/v1639313738/WhatsApp_Image_2021-12-12_at_5.58.52_PM_1_rkdajc.jpg)
 ![Your Products](https://res.cloudinary.com/dxleddac7/image/upload/v1639313738/WhatsApp_Image_2021-12-12_at_5.58.52_PM_2_aqoqmq.jpg)
 
