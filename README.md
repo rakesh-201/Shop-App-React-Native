@@ -1,9 +1,9 @@
 # Shop App
 
 ## Screenshots
-![Login Screen](https://drive.google.com/file/d/1hV3FptaylBm0lpdQqfhL1fSh9IWXasvX/view)
-![All Products](https://drive.google.com/file/d/1rG7xKHkOQcQsB28cXrTOfCoZWaGU8MVs/view)
-![Your Products](https://drive.google.com/file/d/1SYgsZUToupS6SXFmSbWSjcDm9G3F0Ny1/view)
+![Login Screen](https://res.cloudinary.com/dxleddac7/image/upload/v1639313739/WhatsApp_Image_2021-12-12_at_5.58.52_PM_s4zwgh.jpg)
+![All Products](https://res.cloudinary.com/dxleddac7/image/upload/v1639313738/WhatsApp_Image_2021-12-12_at_5.58.52_PM_1_rkdajc.jpg)
+![Your Products](https://res.cloudinary.com/dxleddac7/image/upload/v1639313738/WhatsApp_Image_2021-12-12_at_5.58.52_PM_2_aqoqmq.jpg)
 
 ## Description
 
