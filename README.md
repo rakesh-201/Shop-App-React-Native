@@ -1,15 +1,24 @@
 # Shop App
 
+## Screenshots
+[Login Screen](https://drive.google.com/file/d/1hV3FptaylBm0lpdQqfhL1fSh9IWXasvX/view?usp=sharing)
+[All Products](https://drive.google.com/file/d/1rG7xKHkOQcQsB28cXrTOfCoZWaGU8MVs/view?usp=sharing)
+[Your Products](https://drive.google.com/file/d/1SYgsZUToupS6SXFmSbWSjcDm9G3F0Ny1/view?usp=sharing)
 
 ## Description
 
 An E-Commerce app having descent UI, high security and fast and easy navigation.
+
+This app allows each user to buy as well as sell their products.
+
+The app has the notification system build into it.
 
 ## Some Features
 
 - High Security
 - descent UI
 - Fast Navigation
+- Notification
 
 ## Technology stack
 
@@ -29,7 +38,7 @@ Then,
 
 `npm start`
 
-that it!!
+that's it!!
 
 ## Applications
 
